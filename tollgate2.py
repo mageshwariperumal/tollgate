@@ -1,4 +1,4 @@
-c1=input("customer1 : TN 12 W 1706 : MICK : Make : Maruti")
+c1=input("customer1 : TN 12 W 1706 : MICK : Make : Maruti") #press enter till the end of the customer
 c2=input("customer2 : TN 13 W 1707 : JOHN : Make : Honda")
 c3=input("customer3 : TN 14 W 1708 : PAVI : Make : Tesla")
 c4=input("customer4 : TN 15 W 1709 : MAGGIE : Make : Lambrogane")
